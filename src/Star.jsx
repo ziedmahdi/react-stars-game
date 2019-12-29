@@ -2,7 +2,7 @@ import React from 'react';
 
 const Star = (propos) => {
     return (   
-        <i class="star icon"></i>
+        <i className="star icon big" style={{marginTop: "12px"}}></i>
     ) 
 }
 
